@@ -14,7 +14,7 @@ We frequently use `arrow` (sometimes referred to as `fat arrow`) functions as
 callbacks (which we will define next).  This is convenient when the callback is
 simple and anonymous.
 
-### How to Convert to Arrow Syntax
+### How to Convert into Arrow Syntax
 
 We can convert an existing JavaScript function to use the arrow syntax with the following steps.
 
