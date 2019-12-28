@@ -7,10 +7,7 @@ const ages = [7, 24, 21, 18, 22]
 
 // Use find to return the age of first age over 21
 // using a predicate function
-const isAdult = (age) => {
-  return age >= 21
-}
-ages.find(isAdult) // 24
+
 
 // 1.  Find the first food that is more than 20 days old
 // using a predicate function called isRotten
