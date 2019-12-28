@@ -221,7 +221,7 @@ Complete the exercise in [exercises/find.js](exercises/find.js).
 
 The
 [some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
-method return true if the callback returns `true` for any element of the array.
+method returns true if the callback returns `true` for any element of the array.
 
 Callbacks passed to `some` should be predicate functions.
 
